@@ -1,0 +1,12 @@
+{
+    "ModTitle": "Language Balance",
+    "ModVersion": "0.1",
+    "ModAuthor": "Squashua Gonzalez",
+    "ContactInfo": "squashmvp@gmail.com",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Lets you train language skills to level 90 at trainers",
+    "GUID": "d7b3dc7b-277e-418c-905e-dc0ccd37e6c5",
+    "Files": [
+        "Assets/Game/Mods/LanguageBalance/LanguageBalance.cs"
+    ]
+}
